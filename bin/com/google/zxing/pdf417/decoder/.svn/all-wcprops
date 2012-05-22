@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/pdf417/decoder
+END
+DecodedBitStreamParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.class
+END
+BitMatrixParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/pdf417/decoder/BitMatrixParser.class
+END
+Decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/pdf417/decoder/Decoder.class
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss
+END
+Pair.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/Pair.class
+END
+AbstractRSSReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/AbstractRSSReader.class
+END
+RSS14Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/RSS14Reader.class
+END
+FinderPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/FinderPattern.class
+END
+DataCharacter.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/DataCharacter.class
+END
+RSSUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/oned/rss/RSSUtils.class
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/multi
+END
+GenericMultipleBarcodeReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/multi/GenericMultipleBarcodeReader.class
+END
+ByQuadrantReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/multi/ByQuadrantReader.class
+END
+MultipleBarcodeReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/multi/MultipleBarcodeReader.class
+END

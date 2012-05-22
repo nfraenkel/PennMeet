@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder/DataBlock.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder/Version.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/datamatrix/decoder/Decoder.java
+END

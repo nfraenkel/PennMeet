@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/background"
+  android:focusable="true" android:focusableInTouchMode="true">
+	  <TextView 
+  		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+	  <RelativeLayout
+	  	android:layout_below="@id/header"
+	  	android:id="@+id/top_layout"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:layout_marginTop="40px"
+	  	android:layout_gravity="center_vertical">
+		  <ImageButton
+		  	android:id="@+id/add_photo"
+		  	android:layout_width="120dip"
+		  	android:layout_height="120dip"
+		  	android:background="@drawable/blank_photo"
+		  	android:layout_marginLeft="20px"/>
+		<EditText
+			android:id="@+id/add_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20px"
+			android:layout_marginRight="30px"
+			android:layout_centerVertical="true"
+			android:textSize="22sp"
+			android:layout_toRightOf="@id/add_photo"
+			android:hint="(Enter Club Name)"
+			android:textStyle="bold"/>
+		</RelativeLayout>
+		
+		<LinearLayout 
+			android:id="@+id/middle_layout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/top_layout"
+			android:layout_marginTop="40px"
+			android:orientation="horizontal">
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="30px"
+				android:orientation="vertical">
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="President: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Vice President: "
+					android:layout_marginTop="50px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Email: "
+					android:layout_marginTop="50px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+					
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Description: "
+					android:layout_marginTop="10px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+
+			</LinearLayout>
+			
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="20px"
+				android:orientation="vertical">
+				
+				<EditText
+					android:id="@+id/add_president"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(Who's your Pres?)"
+					android:textStyle="bold"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:textSize="14sp"/>
+				
+				<EditText
+					android:id="@+id/add_vice"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(Who is your VP?)"
+					android:layout_marginTop="15px"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:textStyle="bold"
+					android:textSize="14sp"/>
+				
+				<EditText
+					android:id="@+id/add_email"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(club email?)"
+					android:layout_marginTop="15px"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:textStyle="bold"
+					android:textSize="14sp"/>
+
+			</LinearLayout>
+			</LinearLayout>
+			
+			<Button
+						android:id="@+id/create_group_button"
+						android:layout_width="fill_parent"
+						android:layout_height="wrap_content"
+						android:textStyle="bold"
+						android:text="Create Group!"
+						android:layout_alignParentBottom="true"
+						android:layout_alignParentRight="true"
+						android:layout_marginBottom="20dip"
+						android:layout_marginRight="30dip"
+						android:layout_marginLeft="30dip"
+						/>
+					
+					<EditText
+							android:id="@+id/add_description"
+							android:layout_width="fill_parent"
+							android:layout_height="wrap_content"
+							android:hint="(Tell everyone about your group!)"
+							android:layout_marginLeft="30px"
+							android:layout_marginTop="5dip"
+							android:layout_marginBottom="15px"
+							android:layout_marginRight="30px"
+							android:layout_above="@id/create_group_button"
+							android:gravity="top"
+							android:textStyle="bold"
+							android:textSize="14sp"/>
+					
+</RelativeLayout>

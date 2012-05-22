@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common
+END
+BitSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/BitSource.java
+END
+ECI.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/ECI.java
+END
+BitMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/BitMatrix.java
+END
+DecoderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/DecoderResult.java
+END
+Comparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/Comparator.java
+END
+DetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/DetectorResult.java
+END
+GridSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/GridSampler.java
+END
+BitArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/BitArray.java
+END
+Collections.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/Collections.java
+END
+DefaultGridSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/DefaultGridSampler.java
+END
+GlobalHistogramBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/GlobalHistogramBinarizer.java
+END
+PerspectiveTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/PerspectiveTransform.java
+END
+HybridBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/HybridBinarizer.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/StringUtils.java
+END
+CharacterSetECI.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/CharacterSetECI.java
+END

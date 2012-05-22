@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers
+END
+RosterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/RosterAdapter.java
+END
+IntentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/IntentResult.java
+END
+IntentIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/IntentIntegrator.java
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/.DS_Store
+END
+QREncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/QREncoder.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/Group.java
+END
+GroupAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/GroupAdapter.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/pennmeet/src/com/pennapps/pennmeet/helpers/User.java
+END

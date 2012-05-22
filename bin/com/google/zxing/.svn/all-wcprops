@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing
+END
+NotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/NotFoundException.class
+END
+Writer.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/Writer.class
+END
+Result.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/Result.class
+END
+ChecksumException.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/ChecksumException.class
+END
+ReaderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/ReaderException.class
+END
+ResultMetadataType.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/ResultMetadataType.class
+END
+BinaryBitmap.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/BinaryBitmap.class
+END
+EncodeHintType.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/EncodeHintType.class
+END
+Binarizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/Binarizer.class
+END
+MultiFormatReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/MultiFormatReader.class
+END
+ResultPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/ResultPoint.class
+END
+WriterException.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/WriterException.class
+END
+LuminanceSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/LuminanceSource.class
+END
+MultiFormatWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/MultiFormatWriter.class
+END
+Reader.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/Reader.class
+END
+ResultPointCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/ResultPointCallback.class
+END
+FormatException.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/FormatException.class
+END
+BarcodeFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/BarcodeFormat.class
+END
+DecodeHintType.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/DecodeHintType.class
+END

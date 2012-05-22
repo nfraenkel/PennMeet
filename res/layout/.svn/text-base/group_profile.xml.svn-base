@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/background">
+	   <TextView 
+  		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+		<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_below="@id/header">
+	  <RelativeLayout
+	  	android:id="@+id/top_layout"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:layout_alignParentTop="True"
+	  	android:layout_marginTop="40px"
+	  	android:layout_gravity="center_vertical">
+		  <ImageView
+		  	android:id="@+id/group_profile_photo"
+		  	android:layout_width="120dip"
+		  	android:layout_height="120dip"
+		  	android:background="@drawable/blank_photo"
+		  	android:layout_marginLeft="20px"/>
+		<TextView
+			android:id="@+id/group_profile_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20px"
+			android:layout_centerVertical="true"
+			android:textColor="@android:color/white"
+			android:textSize="26sp"
+			android:layout_toRightOf="@id/group_profile_photo"
+			android:text="Extreme Chess Club"
+			android:textStyle="bold"/>
+		</RelativeLayout>
+		<LinearLayout 
+			android:id="@+id/middle_layout"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/top_layout"
+			android:layout_marginTop="40px"
+			android:orientation="horizontal">
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="30px"
+				android:orientation="vertical">
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="President: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Vice President: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Email: \n"
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+					
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Description: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+			</LinearLayout>
+			
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="20px"
+				android:orientation="vertical">
+				
+				<TextView
+					android:id="@+id/group_profile_president"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Michael Wallace"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/group_profile_vp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Sarah Palin"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/group_profile_email"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="shiggles@seas.upenn.edu"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				
+			</LinearLayout>
+			
+			</LinearLayout>
+			
+			<Button
+				android:id="@+id/view_roster"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentBottom="true"
+				android:layout_centerHorizontal="true"
+				android:text="View Roster"
+				android:textStyle="bold"
+				android:layout_marginBottom="20dip"
+				android:paddingLeft="10dip"
+				android:paddingRight="10dip"
+				/>
+			<TextView
+							android:id="@+id/group_profile_description"
+							android:layout_width="fill_parent"
+							android:layout_height="fill_parent"
+							android:layout_marginLeft="30px"
+							android:layout_marginTop="5dip"
+							android:layout_marginBottom="15px"
+							android:layout_marginRight="30px"
+							android:layout_below="@id/middle_layout"
+							android:layout_above="@id/view_roster"
+							android:gravity="top"
+							android:textStyle="bold"
+							android:textSize="14sp"/>
+				</RelativeLayout>
+</RelativeLayout>

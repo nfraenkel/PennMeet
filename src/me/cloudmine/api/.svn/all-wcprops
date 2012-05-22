@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/pennmeet/src/me/cloudmine/api
+END
+CMAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/pennmeet/src/me/cloudmine/api/CMAdapter.java
+END
+RawRESTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/src/me/cloudmine/api/RawRESTClient.java
+END
+RESTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/pennmeet/src/me/cloudmine/api/RESTClient.java
+END

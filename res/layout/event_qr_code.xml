@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:id="@android:id/tabhost"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/background">
+  
+  <TextView 
+		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+		
+  <RelativeLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent"
+  	android:layout_below="@id/header">
+   	<LinearLayout
+   		android:id="@+id/button_layout"
+   		android:layout_width="wrap_content"
+   		android:layout_height="wrap_content"
+   		android:layout_centerHorizontal="true"
+   		android:layout_alignParentBottom="true"
+   		android:layout_marginBottom="20dip">
+   	<Button
+   		android:id="@+id/share_qr_code"
+   		android:layout_width="wrap_content"
+   		android:layout_height="wrap_content"
+   		android:text="Share this Code!"
+   		android:textStyle="bold"
+   		/>
+   	<Button
+   		android:id="@+id/download_roster_button"
+   		android:layout_width="wrap_content"
+   		android:layout_height="wrap_content"
+   		android:layout_marginLeft="20dip"
+   		android:text="Download Roster"
+   		android:textStyle="bold"
+   		/>
+   		</LinearLayout>
+   		<TextView 
+   			android:id="@+id/qr_instructions"
+   			android:layout_width="wrap_content" 
+   			android:layout_height="wrap_content"
+   			android:text="Have your guests scan this code to collect their contact info."
+   			android:textStyle="bold"
+   			android:textColor="@android:color/white"
+   			android:textSize="16sp"
+   			android:layout_alignParentTop="true"
+   			android:layout_marginLeft="30dip"
+   			android:layout_marginTop="10dip"
+   			android:layout_marginRight="30dip"/>
+   	<RelativeLayout
+   		android:layout_width="fill_parent"
+   		android:layout_height="fill_parent"
+   		android:layout_above="@id/button_layout"
+   		android:layout_below="@id/qr_instructions"
+   		android:gravity="center">
+   		<ImageView 
+   			android:id="@+id/qr_view"
+   			android:layout_width="fill_parent"
+   			android:layout_height="fill_parent"
+   			android:layout_marginTop="30dip"
+   			android:layout_marginBottom="40dip"
+   			android:layout_marginLeft="30dip"
+   			android:layout_marginRight="30dip"
+   			android:background="@drawable/test_qr_code"/>
+   		</RelativeLayout>
+   	</RelativeLayout>
+</RelativeLayout>

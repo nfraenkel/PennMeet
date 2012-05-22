@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder
+END
+DecodedBitStreamParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/DecodedBitStreamParser.class
+END
+Version$ECBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/Version$ECBlocks.class
+END
+BitMatrixParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/BitMatrixParser.class
+END
+Version$ECB.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/Version$ECB.class
+END
+DataBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/DataBlock.class
+END
+Decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/Decoder.class
+END
+Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/datamatrix/decoder/Version.class
+END

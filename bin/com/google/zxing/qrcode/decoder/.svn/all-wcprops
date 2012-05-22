@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder
+END
+DataMask$DataMask000.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask000.class
+END
+DecodedBitStreamParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.class
+END
+BitMatrixParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/BitMatrixParser.class
+END
+DataMask$DataMask010.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask010.class
+END
+DataMask$DataMask001.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask001.class
+END
+DataMask$DataMask100.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask100.class
+END
+DataMask$DataMask110.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask110.class
+END
+DataMask$DataMask101.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask101.class
+END
+DataMask$DataMask011.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask011.class
+END
+DataMask$DataMask111.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask$DataMask111.class
+END
+Mode.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/Mode.class
+END
+DataBlock.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataBlock.class
+END
+DataMask.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/DataMask.class
+END
+Version.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/Version.class
+END
+FormatInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/FormatInformation.class
+END
+Version$ECBlocks.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/Version$ECBlocks.class
+END
+Version$ECB.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/Version$ECB.class
+END
+Decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/Decoder.class
+END
+ErrorCorrectionLevel.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.class
+END

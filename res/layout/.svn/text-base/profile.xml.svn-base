@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/background"
+  android:focusable="true" android:focusableInTouchMode="true">
+  <TextView 
+  		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+	  <RelativeLayout
+	  	android:layout_below="@id/header"
+	  	android:id="@+id/top_layout"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:layout_marginTop="40px"
+	  	android:layout_gravity="center_vertical">
+		  <ImageView
+		  	android:id="@+id/profile_photo"
+		  	android:layout_width="120dip"
+		  	android:layout_height="120dip"
+		  	android:background="@drawable/blank_photo"
+		  	android:layout_marginLeft="20px"/>
+		<TextView
+			android:id="@+id/profile_name"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20px"
+			android:layout_centerVertical="true"
+			android:textColor="@android:color/white"
+			android:textSize="26sp"
+			android:layout_toRightOf="@id/profile_photo"
+			android:text="John\nAppleseed"
+			android:textStyle="bold"/>
+		</RelativeLayout>
+		
+		 <RelativeLayout
+		 android:visibility="invisible"
+	  	android:layout_below="@id/header"
+	  	android:id="@+id/top_layout_edit"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:layout_marginTop="40px"
+	  	android:layout_gravity="center_vertical">
+		  <ImageButton
+		  	android:id="@+id/profile_photo"
+		  	android:layout_width="90dip"
+		  	android:layout_height="90dip"
+		  	android:background="@drawable/blank_photo"
+		  	android:layout_marginLeft="20px"/>
+		<EditText
+			android:id="@+id/profile_name_edit"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="20px"
+			android:layout_centerVertical="true"
+			android:textSize="22sp"
+			android:layout_toRightOf="@id/profile_photo"
+			android:hint="(Enter your name)"
+			android:textStyle="bold"/>
+		</RelativeLayout>
+		
+		<RelativeLayout 
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:layout_below="@id/top_layout"
+			android:layout_marginTop="40px"
+			android:orientation="horizontal">
+			<LinearLayout
+				android:id="@+id/left_layout"
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="30px"
+				android:orientation="vertical">
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="email: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="phone: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="school: \n"
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+					
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="major: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="year: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+				
+				<TextView 
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="notes: "
+					android:layout_marginTop="15px"
+					android:textColor="@android:color/white"
+					android:textSize="16sp"
+				/>
+			</LinearLayout>
+			
+			<LinearLayout
+				android:id="@+id/porfile_view"
+				android:layout_toRightOf="@id/left_layout"
+				android:layout_width="wrap_content"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="20px"
+				android:orientation="vertical">
+				
+				<TextView
+					android:id="@+id/profile_email"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="japple@seas.upenn.edu"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/profile_phone"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="(305) 770 - 9281"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/profile_school"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="School of Engineering and Applied Science"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/profile_major"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Mechanical Engineering"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+
+				<TextView
+					android:id="@+id/profile_grad_year"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="2014"
+					android:textColor="@android:color/white"
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+				
+				<TextView
+					android:id="@+id/profile_grad_year"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text=""
+					android:textColor="@android:color/white"
+					
+					android:layout_marginTop="15px"
+					android:textStyle="bold"
+					android:textSize="16sp"/>
+			</LinearLayout>
+			
+			<ScrollView
+				android:id="@+id/porfile_edit"
+				android:layout_toRightOf="@id/left_layout"
+				android:visibility="invisible"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent">
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_marginLeft="20px"
+				
+				android:orientation="vertical">
+				
+				<EditText
+					android:id="@+id/profile_email_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(enter your email)"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+				
+				<EditText
+					android:id="@+id/profile_phone_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:hint="(enter your number)"
+					android:layout_marginTop="5px"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+				
+				<EditText
+					android:id="@+id/profile_school_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(enter your school)"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:layout_marginTop="5px"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+				
+				<EditText
+					android:id="@+id/profile_major_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(enter your major)"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:layout_marginTop="5px"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+
+				<EditText
+					android:id="@+id/profile_year_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:hint="(enter your year)"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:layout_marginTop="5px"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+				
+				<EditText
+					android:id="@+id/profile_notes_edit"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:singleLine="true"
+					android:ellipsize="start"
+					android:text=""
+					android:layout_marginTop="5px"
+					android:textStyle="bold"
+					android:textSize="10sp"/>
+					
+				<Button
+					android:id="@+id/profile_save_changes_edit"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Save Changes"
+					android:textStyle="bold"
+					/>
+			</LinearLayout>
+			</ScrollView>
+			</RelativeLayout>
+</RelativeLayout>

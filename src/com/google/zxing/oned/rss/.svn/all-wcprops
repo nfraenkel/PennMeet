@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss
+END
+RSS14Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/RSS14Reader.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/FinderPattern.java
+END
+DataCharacter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/DataCharacter.java
+END
+RSSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/RSSUtils.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/Pair.java
+END
+AbstractRSSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/oned/rss/AbstractRSSReader.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional
+END
+NDEFURIResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/NDEFURIResultParser.java
+END
+NDEFRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/NDEFRecord.java
+END
+AbstractNDEFResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/AbstractNDEFResultParser.java
+END
+NDEFSmartPosterResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/NDEFSmartPosterResultParser.java
+END
+NDEFTextResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/NDEFTextResultParser.java
+END
+NDEFSmartPosterParsedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/client/result/optional/NDEFSmartPosterParsedResult.java
+END

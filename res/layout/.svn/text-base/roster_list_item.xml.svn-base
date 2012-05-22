@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/cation_row" 
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:background="@android:color/transparent"
+  android:gravity="center_vertical">
+	<LinearLayout 
+		android:id="@+id/roster_linear_layout"
+		android:layout_alignParentLeft="true"
+		android:orientation="vertical"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="20dip">
+		<TextView
+		    android:id="@+id/roster_name"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:textSize="18sp"
+		    android:textStyle="bold"
+		    android:layout_marginTop="10dip"
+		    android:textColor="@android:color/white" >
+		</TextView>
+		<TextView
+			android:id="@+id/roster_email"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:textSize="16sp"
+		    android:layout_marginBottom="10dip">
+		</TextView>
+	</LinearLayout>
+	
+	<TextView
+		android:id="@+id/roster_year"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="16sp"
+		android:textStyle="bold"
+		android:layout_centerVertical="true"
+		android:layout_alignParentRight="true"
+		android:layout_marginRight="20dip"
+		/>
+	
+</RelativeLayout>

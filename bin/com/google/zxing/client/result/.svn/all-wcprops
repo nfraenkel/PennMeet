@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result
+END
+VCardResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/VCardResultParser.class
+END
+URIResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/URIResultParser.class
+END
+AddressBookDoCoMoResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/AddressBookDoCoMoResultParser.class
+END
+ParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ParsedResult.class
+END
+ProductParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ProductParsedResult.class
+END
+AbstractDoCoMoResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/AbstractDoCoMoResultParser.class
+END
+TelParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/TelParsedResult.class
+END
+GeoResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/GeoResultParser.class
+END
+ExpandedProductParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ExpandedProductParsedResult.class
+END
+ISBNParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ISBNParsedResult.class
+END
+BizcardResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/BizcardResultParser.class
+END
+EmailAddressParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/EmailAddressParsedResult.class
+END
+SMSMMSResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/SMSMMSResultParser.class
+END
+ResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ResultParser.class
+END
+ProductResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ProductResultParser.class
+END
+AddressBookParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/AddressBookParsedResult.class
+END
+TelResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/TelResultParser.class
+END
+SMSParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/SMSParsedResult.class
+END
+AddressBookAUResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/AddressBookAUResultParser.class
+END
+EmailDoCoMoResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/EmailDoCoMoResultParser.class
+END
+ExpandedProductResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ExpandedProductResultParser.class
+END
+CalendarParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/CalendarParsedResult.class
+END
+ISBNResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ISBNResultParser.class
+END
+EmailAddressResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/EmailAddressResultParser.class
+END
+ParsedResultType.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/ParsedResultType.class
+END
+URLTOResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/URLTOResultParser.class
+END
+TextParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/TextParsedResult.class
+END
+BookmarkDoCoMoResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/BookmarkDoCoMoResultParser.class
+END
+VEventResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/VEventResultParser.class
+END
+WifiParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/WifiParsedResult.class
+END
+URIParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/URIParsedResult.class
+END
+SMTPResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/SMTPResultParser.class
+END
+SMSTOMMSTOResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/SMSTOMMSTOResultParser.class
+END
+GeoParsedResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/GeoParsedResult.class
+END
+WifiResultParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/client/result/WifiResultParser.class
+END

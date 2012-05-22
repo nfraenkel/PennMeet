@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon
+END
+ReedSolomonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon/ReedSolomonException.java
+END
+ReedSolomonEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon/ReedSolomonEncoder.java
+END
+GenericGF.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon/GenericGF.java
+END
+ReedSolomonDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon/ReedSolomonDecoder.java
+END
+GenericGFPoly.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/pennmeet/src/com/google/zxing/common/reedsolomon/GenericGFPoly.java
+END

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:id="@android:id/tabhost"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@drawable/background">
+  
+  <TextView 
+		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+		
+  <RelativeLayout
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent"
+  	android:layout_below="@id/header">
+	<ListView 	
+		android:id="@+id/roster_listview"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:cacheColorHint="#00000000"
+		></ListView>
+   	</RelativeLayout>
+</RelativeLayout>

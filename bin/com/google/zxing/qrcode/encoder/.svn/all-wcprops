@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder
+END
+QRCode.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/QRCode.class
+END
+Encoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/Encoder.class
+END
+MatrixUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/MatrixUtil.class
+END
+BlockPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/BlockPair.class
+END
+ByteMatrix.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/ByteMatrix.class
+END
+MaskUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/pennmeet/bin/com/google/zxing/qrcode/encoder/MaskUtil.class
+END

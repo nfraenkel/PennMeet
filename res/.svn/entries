@@ -1,0 +1,143 @@
+10
+
+dir
+17
+https://pennapps-pennmeet.googlecode.com/svn/trunk/pennmeet/res
+https://pennapps-pennmeet.googlecode.com/svn
+
+
+
+2011-09-18T08:14:41.925168Z
+17
+Sharkbor@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e348cd14-f8de-e924-aeb5-5f063678f77b
+
+values-pt
+dir
+
+drawable
+dir
+
+values-da
+dir
+
+values-ru
+dir
+
+anim
+dir
+
+values-sv
+dir
+
+values-de
+dir
+
+values-ja
+dir
+
+values-zh-rTW
+dir
+
+raw
+dir
+
+values-he
+dir
+
+values-el
+dir
+
+values-zh-rCN
+dir
+
+values
+dir
+
+.DS_Store
+file
+
+
+
+
+2012-05-22T16:18:25.000000Z
+34ac8c4e40c4e1d1920cfb9fabfd5783
+2011-09-18T08:14:41.925168Z
+17
+Sharkbor@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6148
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-fr
+dir
+
+values-es
+dir
+
+values-nl
+dir
+
+values-ko
+dir
+
+drawable-ldpi
+dir
+
+values-en-rGB
+dir
+
+drawable-mdpi
+dir
+
+values-pl
+dir
+
+values-no
+dir
+
+values-it
+dir
+
+layout
+dir
+

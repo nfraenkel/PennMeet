@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/trunk/pennmeet/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/main.xml
+END
+roster_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/roster_list_item.xml
+END
+groups_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/groups_list_item.xml
+END
+profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/profile.xml
+END
+bump.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump.xml
+END
+roster_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/roster_view.xml
+END
+bump_start_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump_start_view.xml
+END
+bump_confirm_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump_confirm_view.xml
+END
+bump_edit_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump_edit_text.xml
+END
+group_profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/group_profile.xml
+END
+event_qr_code.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/event_qr_code.xml
+END
+bump_waiting_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump_waiting_view.xml
+END
+create_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/create_group.xml
+END
+bump_api_popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/bump_api_popup.xml
+END
+groups.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/pennmeet/res/layout/groups.xml
+END

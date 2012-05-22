@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@drawable/background">
+    <Button
+    android:text="@string/start_button"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:id="@+id/onOffButton"
+    android:onClick="onClick"
+    ></Button>
+    <TextView
+    android:text=""
+    android:id="@+id/countdownTimer"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:textColor="#FF0000"/>
+</LinearLayout> -->
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/background"
+>
+	<TextView 
+		android:id="@+id/header"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:paddingLeft="20dip"
+		android:paddingTop="7dip"
+		android:paddingBottom="7dip"
+		android:text="PennMeet"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:textColor="@android:color/white"
+		android:background="@drawable/header"/>
+<com.google.android.apps.iosched.ui.widget.DashboardLayout
+	
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:layout_below="@id/header"
+    >
+    
+     <Button 
+	    	android:drawableTop="@drawable/dashboard_group" 
+	    	android:layout_width="wrap_content" 
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/dashboard_groups"
+	        android:onClick="onClick" 
+	        android:scaleType="center"
+			android:text="My Groups" 
+	    	android:textColor="@android:color/white"
+	    	android:textStyle="bold"
+	    	android:background="@android:color/transparent" />
+    
+     <Button 
+	    	android:drawableTop="@drawable/dashboard_scan" 
+	    	android:layout_width="wrap_content" 
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/dashboard_scan"
+	        android:onClick="onClick" 
+	        android:scaleType="center"
+			android:text="Sign In" 
+	    	android:textColor="@android:color/white"
+	    	android:textStyle="bold"
+	    	android:background="@android:color/transparent" />
+    
+    <Button 
+	    	android:drawableTop="@drawable/dashboard_bump" 
+	    	android:layout_width="wrap_content" 
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/dashboard_bump"
+	        android:onClick="onClick" 
+	        android:scaleType="center"
+			android:text="Bump a Group" 
+	    	android:textColor="@android:color/white"
+	    	android:textStyle="bold"
+	    	android:background="@android:color/transparent" />
+	    	
+    <Button 
+	    	android:drawableTop="@drawable/dashboard_profile" 
+	    	android:layout_width="wrap_content" 
+	    	android:layout_height="wrap_content"
+	        android:id="@+id/dashboard_profile"
+	        android:onClick="onClick" 
+	        android:scaleType="center"
+			android:text="My Profile" 
+	    	android:textColor="@android:color/white"
+	    	android:textStyle="bold"
+	    	android:background="@android:color/transparent" />
+    
+	    
+</com.google.android.apps.iosched.ui.widget.DashboardLayout>
+</RelativeLayout>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/17/trunk/pennmeet/res/values
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/pennmeet/res/values/styles.xml
+END
+bumpvalues.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/pennmeet/res/values/bumpvalues.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/trunk/pennmeet/res/values/strings.xml
+END
+bumpstrings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/pennmeet/res/values/bumpstrings.xml
+END
